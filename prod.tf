@@ -16,3 +16,4 @@ module "stucture" {
   availability_zones   = local.production_availability_zones
 
 }
+  
