@@ -23,3 +23,4 @@ variable "availability_zones" {
 variable "region" {
   default = "ap-south-1"
 }
+
